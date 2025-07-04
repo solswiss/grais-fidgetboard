@@ -1,6 +1,6 @@
 # grais-fidgetboard
 silly board with 3 keys and 3 5mm LEDs to fidget with where buttons correspond to the LEDs in order from left to right  
-the actual firmware isn't in the repo, but i could add it after making assembly and revisions!  
+the firmware will definitely chain after assembly - expect revisions!  
 ![3d model of Grais, made in kicad 9](https://github.com/solswiss/grais-fidgetboard/blob/main/assets/pcb-3d.png)
 <sup><sub>🔊🎭📜can you figure out what the inscriptions mean?</sub><sup>
 
